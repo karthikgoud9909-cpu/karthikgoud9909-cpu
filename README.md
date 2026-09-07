@@ -58,22 +58,8 @@ EDUCATION
 
 ---
 
-HOW THIS README BECOMES A 100/100 ATS-FRIENDLY RESUME
-
-This README has been converted to an ATS-friendly structure with: clear headings, keyword-rich skill lists, plain-text bullets, and no images/tables. To achieve a true 100/100 ATS score when submitting to applicant tracking systems, do the following next steps:
-
-1. Copy the contents of this file into Microsoft Word (or Google Docs) and save/export as a .docx. Most ATS parsers prefer .docx (or PDF generated from Word).
-2. Replace placeholders and add full, chronological Experience entries with employer names and start/end dates (month/year) for every role.
-3. For each role, add 3–5 achievement bullets with measurable outcomes (metrics): e.g., "Reduced API latency by 40%", "Supported 10k+ monthly transactions", "Improved test coverage to 85%".
-4. Remove any emojis, badges, images, or tables (this file already omits them).
-5. Use standard section titles: Professional Summary, Skills, Experience, Education, Certifications, Projects.
-
-Once you complete steps 2–3 and export to .docx, your resume will meet the common ATS requirements and should score near or at 100 depending on the job description match.
-
----
-
 CONTACT / HIRING
 
 I am actively looking for Full Stack Developer (MERN/MEAN), Backend Engineer (Java Spring Boot / Node.js), and enterprise software opportunities. Email: karthikgoud9909@gmail.com
 
-Last Updated: September 2026
+Last Updated: September 2024
