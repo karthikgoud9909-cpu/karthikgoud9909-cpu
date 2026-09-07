@@ -50,7 +50,7 @@ I'm a dedicated developer with expertise in building scalable web applications a
 ## 🏆 Achievements & Certifications
 
 ✅ **Runner-up** - Global Web Designing Competition  
-✅ **Winner** - Ledu Code Contest  
+✅ **Winner** - Leet Code Contest  
 ✅ **Certified Data Analyst** - Professional Certification  
 ✅ **IBM Certified Web Developer** - IBM Professional Certification  
 
