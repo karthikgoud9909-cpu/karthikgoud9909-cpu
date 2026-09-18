@@ -13,7 +13,7 @@ Results-driven Full Stack Developer and Software Engineer with expertise in buil
 KEY SKILLS (ATS KEYWORDS)
 
 - Languages: Java, JavaScript (ES6+), C++, C
-- Web: React, Redux, HTML5, CSS3, Responsive Web Design
+- Web: React, Redux, HTML5,Responsive Web Design
 - Backend: Node.js, Express, Spring Boot, RESTful API design
 - Databases: MySQL, MongoDB, SQL optimization, indexing, aggregation
 - Architecture: Microservices, System Design, Distributed Systems fundamentals
@@ -25,41 +25,16 @@ KEY SKILLS (ATS KEYWORDS)
 EXPERIENCE (Selected / Project-first format — add employer names & dates for maximum ATS matching)
 
 Full Stack Developer (Self-employed / Freelance)
-Medchal, Telangana — 2022 – Present
-- Designed and implemented BankPro, an enterprise-grade banking backend using Spring Boot, JPA/Hibernate and MySQL; built secure role-based authentication and authorization.
-- Developed production-ready RESTful APIs consumed by web clients; followed input validation, error handling, and transaction management best-practices.
-- Modeled relational schemas, optimized queries and used transactions to ensure data consistency for financial operations.
-- Implemented middleware and security controls to protect user data and minimize vulnerability exposure.
-
-Featured Project — BankPro (Enterprise Banking Application)
-Technology: Java, Spring Boot, JPA/Hibernate, MySQL, RESTful APIs
-- Built backend architecture supporting banking operations, account management, and transaction processing with explicit transaction boundaries and rollback behavior.
-- Implemented role-based access control, input validation, and secure API patterns.
-- Documented APIs and integration points for front-end and third-party systems.
-
-Other Projects (Representative)
-- Full Stack MERN Applications: Built multiple single-page applications using React, Node.js, Express and MongoDB focusing on componentized UI, Redux state management, and REST API integration.
-- Performance & Optimization: Applied query optimization, indexing strategies, and server-side batching to improve response times and reduce database load.
-
----
-
-ACHIEVEMENTS & CERTIFICATIONS
-
-- Winner, LeetCode Contest — Competitive programming achievement
-- Runner-up, Global Web Designing Competition
-- Certified Data Analyst (certificate available on request)
-- IBM Web Developer Certification
-
----
+Medchal, Telangana — 2022
 
 EDUCATION
-
-(Please add your degree, institution, and graduation year here to improve ATS parsing)
+-SCORED 9.8 GPA IN SSC 
+-SCORED 72 PERCENTILE IN INTERMEDIATE 
+-PURSUING BTECH WITH AN AVERAGE OF 75 CGPA.
 
 ---
 
 CONTACT / HIRING
 
-I am actively looking for Full Stack Developer (MERN/MEAN), Backend Engineer (Java Spring Boot / Node.js), and enterprise software opportunities. Email: karthikgoud9909@gmail.com
+I am actively looking for Full Stack Developer (MERN/MEAN), Backend Engineer (Java Spring Boot / Node.js), and enterprise software opportunities. 
 
-Last Updated: September 2024
